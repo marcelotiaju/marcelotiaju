@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Marcelo Vieira 👋
 **marcelotiaju/marcelotiaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Aqui algumas idéias que estou iniciando:
 
 - 🔭 Eu estou trabalhando atualmente na Nassal Construtora.
 - 🌱 Eu estou aprendendo atualmente Desenvolvimento Web ReactJs e NodeJs no BootCamp da Igti.

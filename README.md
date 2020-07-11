@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **marcelotiaju/marcelotiaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**marcelotiaju/marcelotiaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 Eu estou trabalhando atualmente na Nassal Construtora.
+- 🌱 Eu estou aprendendo atualmente Desenvolvimento Web ReactJs e NodeJs no BootCamp da Igti.
+- 👯 Iniciando Desenvolvimento Mobile App na Igti.
+- 🤔 Conhecimento também em Php Laravel

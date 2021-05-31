@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 Aqui algumas idéias que estou iniciando:
 
-- 🔭 Eu estou trabalhando atualmente na Nassal Construtora.
+- 🔭 Analista de Sistemas ERP Totvs Rm e Desenvolvedor Full Stack ReactJS.
 - 🌱 Concluído o Curso Desenvolvimento Web ReactJs e NodeJs no BootCamp da Igti.
 - 👯 Iniciando Desenvolvimento Mobile App na Igti.
 - 🤔 Conhecimento também em Php Laravel
